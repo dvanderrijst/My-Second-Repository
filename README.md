@@ -104,7 +104,7 @@ Topic: Python, New Feature, Machine Learning, Demo
 
 Difficulty Level: Easy
 
-Documentation links: 
+Documentation links:  
 [Awesome Weaviate · GitHub](https://github.com/semi-technologies/weaviate)  
 
 ### 3. Make Weaviate work on the edge. (e.g. running Weaviate in the browser using a weaviate.js)
