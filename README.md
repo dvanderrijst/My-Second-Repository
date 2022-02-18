@@ -91,8 +91,8 @@ Topic: Python, New Feature, Machine Learning, NLP
 Difficulty Level: Hard
 
 Documentation link:   
-[Developers · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/) 
-[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/configuration/modules.html) 
+[Developers · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/)
+[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/configuration/modules.html)
 [CLIP · Weaviate Documentation](https://www.semi.technology/developers/weaviate/current/modules/multi2vec-clip.html) 
 
 
@@ -118,7 +118,7 @@ Topic: Web/Fronted, New Feature, Dashboard
 Difficulty Level: Medium
 
 Documentation:  
-[JavaScript · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/javascript.html)  
+[JavaScript · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/javascript.html)
 [Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
 
 
@@ -142,9 +142,9 @@ Topic: Golang, New Feature
 Difficulty Level: Hard 
 
 Documentation:  
-[Go · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/go.html)  
-[Custom modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/custom-modules.html) 
-[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/index.html) 
+[Go · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/go.html)
+[Custom modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/custom-modules.html)
+[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/index.html)
 
 
 ### 6. Improve the Weaviate CLI (CLI Based Improvements)
@@ -156,4 +156,4 @@ Topic: Enchantment, New Feature, CMD, CLI, Phyton
 Difficulty Level: Easy
 
 Documentation:  
-[Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
+[Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html)
