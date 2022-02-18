@@ -50,7 +50,7 @@ Depending on the challenge, different skills are preferred. It does not mean tha
 *Difficulty Level:* Easy
 
 *Documentation links:*  
-[Awesome Weaviate · GitHub](https://github.com/semi-technologies/weaviate)  
+[Awesome Weaviate · GitHub](https://github.com/semi-technologies/awesome-weaviate)  
 
 ### 3. Make Weaviate work on the edge. (e.g. running Weaviate in the browser using a weaviate.js)
 
