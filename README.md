@@ -91,9 +91,9 @@ Topic: Python, New Feature, Machine Learning, NLP
 Difficulty Level: Hard
 
 Documentation link:   
-* [Developers · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/) 
-* [Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/configuration/modules.html) 
-* [CLIP · Weaviate Documentation](https://www.semi.technology/developers/weaviate/current/modules/multi2vec-clip.html) 
+[Developers · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/) 
+[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/configuration/modules.html) 
+[CLIP · Weaviate Documentation](https://www.semi.technology/developers/weaviate/current/modules/multi2vec-clip.html) 
 
 
 ### 2. Any new demo (e.g. python notebook) that can be integrated into our website/examples etc.
@@ -105,7 +105,7 @@ Topic: Python, New Feature, Machine Learning, Demo
 Difficulty Level: Easy
 
 Documentation links: 
-* [Awesome Weaviate · GitHub](https://github.com/semi-technologies/weaviate) 
+[Awesome Weaviate · GitHub](https://github.com/semi-technologies/weaviate) 
 
 ### 3. Make Weaviate work on the edge. (e.g. running Weaviate in the browser using a weaviate.js)
 
@@ -118,8 +118,8 @@ Topic: Web/Fronted, New Feature, Dashboard
 Difficulty Level: Medium
 
 Documentation:  
-* [JavaScript · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/javascript.html)  
-* [Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
+[JavaScript · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/javascript.html)  
+[Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
 
 
 ### 4. Make a new Weaviate module (e.g. [gene2vec](https://github.com/jingcheng-du/Gene2vec#:~:text=Gene2Vec%20is%20a%20distributed%20representation,sets%20from%20the%20GEO%20databases.), or a new type of ML model) 
@@ -130,7 +130,7 @@ Topic: Golang
 Difficulty Level: Easy
 
 Documentation:  
-* [Gene2vec · GitHub](https://github.com/jingcheng-du/Gene2vec#:~:text=Gene2Vec%20is%20a%20distributed%20representation,sets%20from%20the%20GEO%20databases) 
+[Gene2vec · GitHub](https://github.com/jingcheng-du/Gene2vec#:~:text=Gene2Vec%20is%20a%20distributed%20representation,sets%20from%20the%20GEO%20databases) 
 
 
 ### 5.  Make Weaviate support a new datatype (e.g. videos, or 3D models, etc)
@@ -142,9 +142,9 @@ Topic: Golang, New Feature
 Difficulty Level: Hard 
 
 Documentation:  
-* [Go · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/go.html)  
-* [Custom modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/custom-modules.html) 
-* [Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/index.html) 
+[Go · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/go.html)  
+[Custom modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/custom-modules.html) 
+[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/index.html) 
 
 
 ### 6. Improve the Weaviate CLI (CLI Based Improvements)
@@ -156,4 +156,4 @@ Topic: Enchantment, New Feature, CMD, CLI, Phyton
 Difficulty Level: Easy
 
 Documentation:  
-* [Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
+[Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
