@@ -92,11 +92,8 @@ Difficulty Level: Hard
 
 Documentation link:   
 [Developers · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/) 
-
-[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/configuration/modules.html)
-
+[Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/configuration/modules.html) 
 [CLIP · Weaviate Documentation](https://www.semi.technology/developers/weaviate/current/modules/multi2vec-clip.html) 
-
 
 
 ### 2. Any new demo (e.g. python notebook) that can be integrated into our website/examples etc.
@@ -122,7 +119,6 @@ Difficulty Level: Medium
 
 Documentation:  
 [JavaScript · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/javascript.html)  
-
 [Weaviate CLI · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/cli.html) 
 
 
@@ -147,9 +143,7 @@ Difficulty Level: Hard
 
 Documentation:  
 [Go · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/client-libraries/go.html)  
-
 [Custom modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/custom-modules.html) 
-
 [Modules · Weaviate Documentation](https://weaviate.io/developers/weaviate/current/modules/index.html) 
 
 
